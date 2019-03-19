@@ -13,7 +13,7 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+This is an example exercise.[]()
 
 `@instructions`
 
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## SHA-256
+
+```yaml
+type: VideoExercise
+key: d7074ed809
+xp: 50
+```
+
+`@projector_key`
+5f19488f0a8be42703b691877771c4df
